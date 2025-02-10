@@ -1,3 +1,4 @@
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/3dbe172e-1fe3-4eaf-b0f1-9d57be832a96" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamaadityadahiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-dahiya-488b7027b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iaadityadahiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamaadityadahiya@gmail.com) 
@@ -20,5 +21,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IamAadityaDahiya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
